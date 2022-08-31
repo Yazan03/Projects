@@ -3,7 +3,7 @@ The source code :
 
 ```python
 import zipfile
-f="gfg.zip"
+f="Secure.zip"
 obj=zipfile.ZipFile(f)
 
 with open("rockyou.txt",'rb') as passlits:
